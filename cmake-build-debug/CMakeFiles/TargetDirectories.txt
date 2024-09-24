@@ -1,0 +1,3 @@
+C:/Users/Asus/CLionProjects/DINO_WAR/cmake-build-debug/CMakeFiles/DINO_WAR.dir
+C:/Users/Asus/CLionProjects/DINO_WAR/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Asus/CLionProjects/DINO_WAR/cmake-build-debug/CMakeFiles/rebuild_cache.dir
